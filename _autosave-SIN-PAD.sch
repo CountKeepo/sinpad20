@@ -510,7 +510,7 @@ Wire Wire Line
 	4200 5500 4200 4800
 Connection ~ 4200 3850
 Wire Wire Line
-	4200 3850 4200 2750
+	4200 3850 4200 3450
 Connection ~ 4200 4800
 Wire Wire Line
 	4200 4800 4200 3850
@@ -572,12 +572,12 @@ Wire Wire Line
 $Comp
 L Device:D_Small D1
 U 1 1 616ED1F5
-P 2100 2400
-F 0 "D1" V 2146 2330 50  0000 R CNN
-F 1 "SOD-123" V 2055 2330 50  0000 R CNN
-F 2 "Keebio-Parts:Diode-Hybrid-Back" V 2100 2400 50  0001 C CNN
-F 3 "~" V 2100 2400 50  0001 C CNN
-	1    2100 2400
+P 3600 3800
+F 0 "D1" V 3646 3730 50  0000 R CNN
+F 1 "SOD-123" V 3555 3730 50  0000 R CNN
+F 2 "Keebio-Parts:Diode-Hybrid-Back" V 3600 3800 50  0001 C CNN
+F 3 "~" V 3600 3800 50  0001 C CNN
+	1    3600 3800
 	0    -1   -1   0   
 $EndComp
 Wire Wire Line
@@ -617,40 +617,42 @@ COL3
 Text GLabel 3700 1800 1    50   Input ~ 0
 COL2
 Connection ~ 2400 3500
-Wire Wire Line
-	2100 2500 3400 2500
 Connection ~ 3400 2500
-Wire Wire Line
-	1900 2500 2100 2500
-Connection ~ 2100 2500
 Wire Wire Line
 	3700 2100 3700 1800
 Connection ~ 3700 2100
 $Comp
 L Connector:Conn_01x01_Female J2
 U 1 1 618C376F
-P 2100 2100
-F 0 "J2" V 2038 2012 50  0000 R CNN
-F 1 "Conn_01x01_Female" V 1947 2012 50  0000 R CNN
-F 2 "Connector_PinHeader_2.00mm:PinHeader_1x01_P2.00mm_Vertical" H 2100 2100 50  0001 C CNN
-F 3 "~" H 2100 2100 50  0001 C CNN
-	1    2100 2100
+P 3600 3500
+F 0 "J2" V 3538 3412 50  0000 R CNN
+F 1 "Conn_01x01_Female" V 3447 3412 50  0000 R CNN
+F 2 "Connector_PinHeader_2.00mm:PinHeader_1x01_P2.00mm_Vertical" H 3600 3500 50  0001 C CNN
+F 3 "~" H 3600 3500 50  0001 C CNN
+	1    3600 3500
 	0    -1   -1   0   
 $EndComp
-Wire Wire Line
-	2400 1900 2400 2000
 $Comp
 L Connector:Conn_01x01_Female J1
 U 1 1 618C8680
-P 2200 2000
-F 0 "J1" H 2092 1775 50  0000 C CNN
-F 1 "Connector COL" H 2092 1866 50  0000 C CNN
-F 2 "Connector_PinHeader_2.00mm:PinHeader_1x01_P2.00mm_Vertical" H 2200 2000 50  0001 C CNN
-F 3 "~" H 2200 2000 50  0001 C CNN
-	1    2200 2000
+P 3650 3450
+F 0 "J1" H 3542 3225 50  0000 C CNN
+F 1 "Connector COL" H 3542 3316 50  0000 C CNN
+F 2 "Connector_PinHeader_2.00mm:PinHeader_1x01_P2.00mm_Vertical" H 3650 3450 50  0001 C CNN
+F 3 "~" H 3650 3450 50  0001 C CNN
+	1    3650 3450
 	-1   0    0    1   
 $EndComp
-Connection ~ 2400 2000
 Wire Wire Line
-	2400 2000 2400 3500
+	3600 3900 3100 3900
+Wire Wire Line
+	1900 2500 3400 2500
+Wire Wire Line
+	2400 1900 2400 3500
+Connection ~ 3100 3900
+Wire Wire Line
+	3850 3450 4200 3450
+Connection ~ 4200 3450
+Wire Wire Line
+	4200 3450 4200 2750
 $EndSCHEMATC

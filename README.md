@@ -6,7 +6,21 @@
 It is a VIAL-firmware based macropad with a CCCP Missile button as a quirky huge enter button.
 The case is being made by Migii and will most definitely not flip over when you press the huge red button.
 
+### Component list:
+- 1 x Atmega32u4 based Pro Micro
+- 19 x Cherry MX spec switches of your choice + keycaps
+- 1 x [CCCP Missile button from the soviet era](https://www.varusteleka.com/en/product/soviet-big-missile-button-switch-surplus/66511)
+- 20 x Throughhole 1N4148 diodes or 0805 SMD diodes
+- 2 x pieces of electrical wire for hooking up the big ass button to the PCB
+- 1 x PCB-mounted 2U stabilizer
+
+### Materials for the case
+- 3D-printed material of your choice
+- Placeholder
+- Placeholder
+
 You can find the case files in the [Case-files folder.](https://github.com/CountKeepo/sinpad20/tree/main/Case-files)
+### DISCLAIMER, CASE IS STILL WIP, SO FOLDER IS EMPTY
 
 You can find a premade firmware file in the [Firmware folder.](https://github.com/CountKeepo/sinpad20/tree/main/Firmware)
 

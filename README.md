@@ -19,10 +19,11 @@ The case is being made by Migii and will most definitely not flip over when you 
 - Placeholder
 - Placeholder
 
-You can find the case files in the [Case-files folder.](https://github.com/CountKeepo/sinpad20/tree/main/Case-files)
-### DISCLAIMER, CASE IS STILL WIP, SO FOLDER IS EMPTY
 
-You can find a premade firmware file in the [Firmware folder.](https://github.com/CountKeepo/sinpad20/tree/main/Firmware)
+### DISCLAIMER, CASE IS STILL WIP, SO FOLDER IS EMPTY
+You can find the case files in the [Case-files folder.](https://github.com/CountKeepo/sinpad20/tree/main/Case-files)
+
+You can find a premade VIAL compatible firmware file in the [Firmware folder.](https://github.com/CountKeepo/sinpad20/tree/main/Firmware)
 
 You can also find premade gerbers in the [Gerbers folder.](https://github.com/CountKeepo/SIN-pad/tree/main/Sinpad%20Gerbers)  
 

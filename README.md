@@ -1,5 +1,7 @@
 # SINPAD20
-<img src="https://github.com/CountKeepo/SIN-pad/blob/main/sinpad.png" alt="Sinpad picture" width="80%"/>
+
+![image](https://user-images.githubusercontent.com/64993772/192714025-c8248569-1eef-404d-a5f0-623955bbb80e.png)
+
 
 ## This is my Saatanan Iso Nappi macroPAD with 20 keys, or SINPAD20 for short. 
 
@@ -15,6 +17,7 @@ The case is being made by Migii and will most definitely not flip over when you 
 - 1 x PCB-mounted 2U stabilizer
 
 ### Materials for the case
+<img src="https://github.com/CountKeepo/SIN-pad/blob/main/sinpad.png" alt="Sinpad picture" width="80%"/>
 - 3D-printed material of your choice
 - Placeholder
 - Placeholder
@@ -31,3 +34,5 @@ I ordered my PCB's from ALLPCB and they turned out okay. I cannot guarantee othe
 
 
 ### Sidenote: I take no responsibility for anything or anything related to this project lol.
+
+Extra pictures:

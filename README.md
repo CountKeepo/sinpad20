@@ -6,7 +6,7 @@
 ## This is my Saatanan Iso Nappi macroPAD with 20 keys, or SINPAD20 for short. 
 
 It is a VIAL-firmware based macropad with a CCCP Missile button as a quirky huge enter button.
-The case is being made by Migii and will most definitely not flip over when you press the huge red button.
+The case is designed and made by [Migii](https://github.com/mkylama) and will most definitely not flip over when you press the huge red button.
 
 Picture of PCB:
 
@@ -28,7 +28,7 @@ Picture of PCB:
 - Placeholder
 
 
-### DISCLAIMER, CASE IS STILL WIP, SO FOLDER IS EMPTY
+### Case
 You can find the case files in the [Case-files folder.](https://github.com/CountKeepo/sinpad20/tree/main/Case-files)
 
 You can find a premade VIAL compatible firmware file in the [Firmware folder.](https://github.com/CountKeepo/sinpad20/tree/main/Firmware)
@@ -39,5 +39,3 @@ I ordered my PCB's from ALLPCB and they turned out okay. I cannot guarantee othe
 
 
 ### Sidenote: I take no responsibility for anything or anything related to this project lol.
-
-Extra pictures:

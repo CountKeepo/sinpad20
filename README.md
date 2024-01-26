@@ -8,12 +8,8 @@
 It is a VIAL-firmware based macropad with a CCCP Missile button as a quirky huge enter button.
 The case is designed and made by [Migii](https://github.com/mkylama) and will most definitely not flip over when you press the huge red button.
 
-Picture of PCB:
 
-![image](https://user-images.githubusercontent.com/64993772/203874979-b27c7da6-2416-4ef6-988f-c9fed3675cf8.png)
-
-
-### Component list:
+## PCB components list:
 - 1 x Atmega32u4 based Pro Micro
 - 19 x Cherry MX spec switches of your choice + keycaps
 - 1 x [CCCP Missile button from the soviet era](https://www.varusteleka.com/en/product/soviet-big-missile-button-switch-surplus/66511)
@@ -21,21 +17,29 @@ Picture of PCB:
 - 2 x pieces of electrical wire for hooking up the big ass button to the PCB
 - 1 x PCB-mounted 2U stabilizer
 
-### Materials for the case
-<img src="https://github.com/CountKeepo/SIN-pad/blob/main/sinpad.png" alt="Sinpad picture" width="80%"/>
-- 3D-printed material of your choice
-- Placeholder
-- Placeholder
-
-
-### Case
+## Case - Designed by [Migii](https://github.com/mkylama)
 You can find the case files in the [Case-files folder.](https://github.com/CountKeepo/sinpad20/tree/main/Case-files)
 
+### Hardware needed for case build
+
+- 3D-printed material of your choice
+
+- 8 x M2 Heat inserts, 3 mm tall
+
+- 8 x M2x5 countersunk screws, aka 5 mm tall
+
+## Firmware
 You can find a premade VIAL compatible firmware file in the [Firmware folder.](https://github.com/CountKeepo/sinpad20/tree/main/Firmware)
 
-You can also find premade gerbers in the [Gerbers folder.](https://github.com/CountKeepo/SIN-pad/tree/main/Sinpad%20Gerbers)  
+## Ordering PCB's
+You can find premade gerbers in the [Gerbers folder.](https://github.com/CountKeepo/SIN-pad/tree/main/Sinpad%20Gerbers)  
+
+Otherwise you can use the KiCad files to make your own gerbers.
 
 I ordered my PCB's from ALLPCB and they turned out okay. I cannot guarantee other that other manufacturers will do a good job. 
 
+## Pictures of project:
 
-### Sidenote: I take no responsibility for anything or anything related to this project lol.
+![image](https://user-images.githubusercontent.com/64993772/203874979-b27c7da6-2416-4ef6-988f-c9fed3675cf8.png)
+
+<img src="https://github.com/CountKeepo/SIN-pad/blob/main/sinpad.png" alt="Sinpad picture" width="80%"/>

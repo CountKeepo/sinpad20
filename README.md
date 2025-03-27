@@ -5,14 +5,20 @@
 
 ## This is my Saatanan Iso Nappi macroPAD with 20 keys, or SINPAD20 for short. 
 
-It is a VIAL-firmware based macropad with a CCCP Missile button as a quirky huge enter button.
+It is a VIAL-firmware based macropad with a CCCP Missile button (KE-011) as a quirky huge enter button. 
 The case is designed and made by [Migii](https://github.com/mkylama) and will most definitely not flip over when you press the huge red button.
+
+**Fun facts:**
+- The infamous AZ-5 scram button, which caused the disaster in Chernobyl, was a KE-011 button
+- After the accident, starting from 1987, all RBMK reactors had their AZ-5 buttons replaced with a switch
+  - The reason for this was that the push-button was prone to multiple inputs.
+  - In Chernobyls case, the button press had actually registered twice.
 
 
 ## PCB components list:
 - 1 x Atmega32u4 based Pro Micro
 - 19 x Cherry MX spec switches of your choice + keycaps
-- 1 x [CCCP Missile button from the soviet era](https://www.varusteleka.com/en/product/soviet-big-missile-button-switch-surplus/66511)
+- 1 x CCCP Missile button (KE-011 button, check Ebay etc.)
 - 20 x Throughhole 1N4148 diodes or 0805 SMD diodes
 - 2 x pieces of electrical wire for hooking up the big ass button to the PCB
 - 1 x PCB-mounted 2U stabilizer
